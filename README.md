@@ -1,10 +1,10 @@
-# MZFontImport(iOS导入自定义字体)
+# MZFontImport
 
-##前言
+## 前言
 在iOS开发过程中，我们有时会需要使用一些炫酷或特定字体，那么就需要导入三方自定义字体来实现功能。
-##下载自定义字体
+## 下载自定义字体
 对应的字体请自行百度下载，***目前大部分字体商用均需获取授权，请注意不要侵权使用***
-##导入自定义字体
+## 导入自定义字体
 1. 将字体文件拖入工程
 ![image](http://upload-images.jianshu.io/upload_images/5912495-6398ee4ffd700ff7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 2. 在Info中添加***Fonts provided by application***选项，并添加子项，填入你导入的自定义字体名称，我这里填入let.ttf
