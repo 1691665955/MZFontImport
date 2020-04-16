@@ -22,7 +22,7 @@
         NSLog(@"-------------\n");
     }
 ```
-- 查看log搜索我们在本地打开字体库时标题上的字体库名称（Let's go Digital），找到对应的字体名称（LetsgoDigital-Regular）
+- 查看log搜索我们在本地打开字体库时标题上的字体库名称（Let's go Digital），找到对应的字体名称（LetsgoDigital-Regular）  
 ![image](http://upload-images.jianshu.io/upload_images/5912495-a78fcb5bbaea80b6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 4. 使用对应的Font
 ```
