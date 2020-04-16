@@ -33,5 +33,6 @@
     label.font = [UIFont fontWithName:@"LetsgoDigital-Regular" size:40];
     [self.view addSubview:label];
 ```
-![image](https://camo.githubusercontent.com/c623225e7157d920351b7561f9d64eb1ba4fceda/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f353931323439352d656264663832616261633639616461342e706e67)
+![image](http://upload-images.jianshu.io/upload_images/5912495-ebdf82abac69ada4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 5. 附上[demo](https://github.com/1691665955/MZFontImport.git)链接
