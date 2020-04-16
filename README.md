@@ -5,12 +5,12 @@
 ## 下载自定义字体
 对应的字体请自行百度下载，***目前大部分字体商用均需获取授权，请注意不要侵权使用***
 ## 导入自定义字体
-1. 将字体文件拖入工程
+1. 将字体文件拖入工程  
 ![image](http://upload-images.jianshu.io/upload_images/5912495-6398ee4ffd700ff7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-2. 在Info中添加***Fonts provided by application***选项，并添加子项，填入你导入的自定义字体名称，我这里填入let.ttf
+2. 在Info中添加***Fonts provided by application***选项，并添加子项，填入你导入的自定义字体名称，我这里填入let.ttf  
 ![image](http://upload-images.jianshu.io/upload_images/5912495-3796164e23af642e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 3. 找到对应的字体名称
-- 本地打开字体库文件，查看标题上的字体库名称
+- 本地打开字体库文件，查看标题上的字体库名称  
 ![image](http://upload-images.jianshu.io/upload_images/5912495-b0d4d39518f90138.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 - 使用代码找到对应的字体family和name
 ```
